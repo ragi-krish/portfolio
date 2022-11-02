@@ -1,0 +1,54 @@
+.mine{
+    width:auto;
+    height: 45vw;
+    margin-right: -1rem;
+}
+#mine_div{
+    margin: 0rem;
+}
+div.intro{
+    background-color: #0e0e0e;
+    color:#aed3c2;
+}
+nav{
+    background-color:#34a18a;
+    padding: .5rem;
+
+}
+div.intro span{
+    color:#43e543c7  ;
+}
+a.btn{
+    color:#1b0628;
+    margin:0.25rem;
+    background-color:#43e543c7;
+    font-weight: 500;
+}
+.intro-me{
+    padding: 10rem 2rem;
+    
+}
+img.logo{
+    width: 5rem;
+    height: 5rem;
+    align-items: center;
+}
+nav ul{
+    align-items: center;
+}
+div#cent{
+    padding: 1rem 0rem;
+}
+#logo_id{
+    margin: 0rem 1rem;
+}
+.social i{
+    margin: 1.5rem;
+}
+  #mycanvas {
+    position: absolute;
+    zIndex: 1000;
+    background-color: #0e0e0e;
+    width: 32rem;
+    margin: 7rem 0rem;
+  }
